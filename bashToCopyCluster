@@ -5,3 +5,7 @@ scp -r aravind@10.16.28.35:/home/aravind/NewCodeSudeep_NoOfWaterInClusterCriteri
 scp -r aravind@10.16.28.35:/home/aravind/NewCodeSudeep_NoOfWaterInClusterCriteria_Using2000WaterMolecules/SplitIntoTwoLargeJobs/ClusterSize36/WhamStitch Cluster36
 scp -r aravind@10.16.28.35:/home/aravind/NewCodeSudeep_NoOfWaterInClusterCriteria_Using2000WaterMolecules/SplitIntoTwoLargeJobs/ClusterSize42/WhamStitch Cluster42
 scp -r aravind@10.16.28.35:/home/aravind/NewCodeSudeep_NoOfWaterInClusterCriteria_Using2000WaterMolecules/SplitIntoTwoLargeJobs/ClusterSize48/WhamStitch Cluster48
+scp -r aravind@10.16.28.35:/home/aravind/NewCodeSudeep_NoOfWaterInClusterCriteria_Using2000WaterMolecules/SplitIntoTwoLargeJobs/ClusterSize54/WhamStitch Cluster54
+
+
+# scp -r chesudep@parampravega.iisc.ac.in:/home/staff/che/chesudep/aravind/Small72_LongRun_6_12_18_fixed/WhamStitch Long30nsSimulationsOfSmallerClusters
