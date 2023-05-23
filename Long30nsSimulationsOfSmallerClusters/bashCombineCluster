@@ -1,6 +1,6 @@
 #!/bin/bash
 clusters=()
-for ((num = 6; num <= 18; num += 6)); do
+for ((num = 6; num <= 24; num += 6)); do
   clusters+=("Cluster$num")
 done
 

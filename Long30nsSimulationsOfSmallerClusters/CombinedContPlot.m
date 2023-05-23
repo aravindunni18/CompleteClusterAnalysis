@@ -21,3 +21,10 @@ G=load('Cluster18/free_energy.dat');
 figure
 contourf(M,S,G');xlabel('M');ylabel('S');
 title('Cluster18')
+M=linspace(0,24,25);
+S=linspace(-9,26,36);
+G=load('Cluster24/free_energy.dat');
+%surf(M,S,G');xlabel('M');ylabel('S');
+figure
+contourf(M,S,G');xlabel('M');ylabel('S');
+title('Cluster24')
